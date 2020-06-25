@@ -1,0 +1,2 @@
+rootProject.name='Hello Firebase'
+include ':app'
