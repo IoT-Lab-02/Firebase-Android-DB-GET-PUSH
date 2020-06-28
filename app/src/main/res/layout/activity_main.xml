@@ -47,7 +47,7 @@
             <TextView
                 android:id="@+id/textView"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:ems="10"
                 android:gravity="left"
@@ -57,7 +57,7 @@
 
             <Button
                 android:id="@+id/getButton"
-                android:layout_width="160dp"
+                android:layout_width="250dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="get_btn_Click"
